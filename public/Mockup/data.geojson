@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.75964353982754,
+            10.806328438989024
+          ]
+        },
+        "properties": {
+          "vendor": "HW",
+          "dateTime": "2023-11-08",
+          "label": "H12345",
+          "rnc_name": "H1245_UL",
+          "site_name": "H123",
+          "cell_name": "H12",
+          "rsrp": -100.0,
+          "sinr": 2.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.72119139139875,
+            10.800932639202205
+          ]
+        },
+        "properties": {
+          "vendor": "HW1",
+          "dateTime": "2023-11-22",
+          "label": "H123452",
+          "rnc_name": "H523",
+          "site_name": "H1232",
+          "cell_name": "H123",
+          "rsrp": -99.0,
+          "sinr": 19.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.7459106296776,
+            10.861629786516291
+          ]
+        },
+        "properties": {
+          "vendor": "hw",
+          "dateTime": "2023-11-08",
+          "label": "H12345",
+          "rnc_name": "H12435_UL",
+          "site_name": "H1243",
+          "cell_name": "H125",
+          "rsrp": -100.0,
+          "sinr": 5.0
+        }
+      }
+    ]
+  }
